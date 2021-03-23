@@ -16,7 +16,6 @@ I'm currently working on personal projects to improve my knowledge and trying to
 </p>
 
 <p align="center">
-<a href="https://codepen.io/annakarlasganderla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="annakarlasganderla" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/annakarlasganderla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="annakarlasganderla" height="20" width="20" /></a>
 <a href="https://instagram.com/annasganderla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="annakarlasganderla" height="20" width="20" /></a>
 </p>
