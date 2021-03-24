@@ -18,3 +18,6 @@ I'm currently working on personal projects to improve my knowledge and trying to
 <a href="https://instagram.com/annasganderla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="annakarlasganderla" height="20" width="20" /></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annakarlasganderla&layout=compact)](https://github.com/annakarlasganderla/github-readme-stats)
+
+
