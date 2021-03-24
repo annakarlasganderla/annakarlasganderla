@@ -12,15 +12,17 @@ I'm currently working on personal projects to improve my knowledge and trying to
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=annakarlasganderla&show_icons=true" alt="annakarlasganderla"/> 
 </p>
 
-<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annakarlasganderla&layout=compact)](https://github.com/annakarlasganderla/github-readme-stats)
+
+<p align="left">
 <a href="https://linkedin.com/in/annakarlasganderla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="annakarlasganderla" height="20" width="20" /></a>
 <a href="https://instagram.com/annasganderla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="annakarlasganderla" height="20" width="20" /></a>
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annakarlasganderla&layout=compact)](https://github.com/annakarlasganderla/github-readme-stats)
+
 
