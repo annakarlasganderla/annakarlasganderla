@@ -16,9 +16,8 @@ I'm currently working on personal projects to improve my knowledge and trying to
 <img src="https://github-readme-stats.vercel.app/api?username=annakarlasganderla&show_icons=true" alt="annakarlasganderla"/> 
 </p>
 
-<p align="center">
-<a href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annakarlasganderla&layout=compact)](https://github.com/annakarlasganderla/github-readme-stats)">
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annakarlasganderla&layout=compact)](https://github.com/annakarlasganderla/github-readme-stats)
+
 
 <p align="left">
 <a href="https://linkedin.com/in/annakarlasganderla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="annakarlasganderla" height="20" width="20" /></a>
