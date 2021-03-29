@@ -12,9 +12,9 @@ I'm currently working on personal projects to improve my knowledge and trying to
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=darialves&show_icons=true&theme=tokyonight&hide=stars)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=annakarlasganderla&show_icons=true&theme=tokyonight&hide=stars)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darialves&theme=tokyonight&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annakarlasganderla&theme=tokyonight&langs_count=6)
 
 
 
