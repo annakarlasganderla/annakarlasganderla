@@ -12,11 +12,10 @@ I'm currently working on personal projects to improve my knowledge and trying to
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
 </p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=annakarlasganderla&show_icons=true" alt="annakarlasganderla"/> 
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=darialves&show_icons=true&theme=tokyonight&hide=stars)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annakarlasganderla&layout=compact)](https://github.com/annakarlasganderla/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darialves&theme=tokyonight&langs_count=6)
+
 
 
 <p align="left">
