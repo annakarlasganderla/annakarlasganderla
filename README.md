@@ -23,6 +23,11 @@ I'm currently working on personal projects to improve my knowledge and trying to
 <a href="https://instagram.com/annasganderla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="annakarlasganderla" height="20" width="20" /></a>
 </p>
 
+## Total de Visitas no perfil :detective: <br>
+ <p align="left"> 
+   <img alingn="leftr" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+ </p>
+
 
 
 
