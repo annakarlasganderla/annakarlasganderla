@@ -25,7 +25,7 @@ I'm currently working on personal projects to improve my knowledge and trying to
 
 ## Total de Visitas no perfil :detective: <br>
  <p align="left"> 
-   <img alingn="leftr" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+   <img alingn="leftr" src="https://profile-counter.glitch.me/annakarlasganderla/count.svg" />
  </p>
 
 
