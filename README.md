@@ -2,7 +2,7 @@
 
 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 
-- 🌱 I’m learnig HTML, CSS and JAVASCRIPT
+- 🌱 I’m learnig HTML, CSS, JAVASCRIPT and C
 - 📫 How to reach me: @sganderlakarlaanna
 
 <p align="left">
