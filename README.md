@@ -13,17 +13,19 @@ I'm currently working on personal projects to improve my knowledge and trying to
 
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=annakarlasganderla&show_icons=true&theme=tokyonight&hide=stars)
+<div>
+  <a href="https://github.com/annakarlasganderla">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annakarlasganderla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annakarlasganderla&layout=compact&langs_count=16&theme=dracula"/>
+<div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annakarlasganderla&theme=tokyonight&langs_count=6)
 
-
+  ![Snake animation](https://github.com/annakarlasganderla/annakarlasganderla/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">
 <a href="https://linkedin.com/in/annakarlasganderla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="annakarlasganderla" height="20" width="20" /></a>
 <a href="https://instagram.com/annasganderla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="annakarlasganderla" height="20" width="20" /></a>
 </p>
-
 
 
 
