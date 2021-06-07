@@ -3,7 +3,6 @@
 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 
 - 🌱 I’m learnig HTML, CSS, JAVASCRIPT and C
-- 📫 How to reach me: @sganderlakarlaanna
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
