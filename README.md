@@ -1,10 +1,8 @@
 ### Welcome to my profile 👋
 
-I'm currently working on IntellTech as Jr developer.
+#### I'm currently working on IntellTech as Jr developer.
 
-- 🌱 I’m learnig React Native, Redux and C#
-
-<h3>- Languages and tools i'm working and learning<h3/>
+- Languages and tools i'm working and learning
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
